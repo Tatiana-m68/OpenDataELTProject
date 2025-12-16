@@ -15,7 +15,7 @@ https://itunes.apple.com/search?term=beatles&limit=50
 ⸻
 
 Project Structure
-
+```
 OpenDataELTProject/
 ├── data/
 │   ├── raw/
@@ -26,7 +26,7 @@ OpenDataELTProject/
 │   └── main.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ⸻
 
